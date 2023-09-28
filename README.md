@@ -69,6 +69,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/kunal-here">
+                    <img src="https://avatars.githubusercontent.com/u/127647392?s=400&u=feadff52c8d95a02cc6f15ee5d38cbedbff65423&v=4" width="100px;" alt="Krunal Jadhav"/>
+                    <br />
+                    <sub><b>Krunal Jadhav</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://www.vivekthakur.dev/">
                     <img src="https://avatars.githubusercontent.com/u/50275510?v=4" width="100px;" alt="Vivek Thakur"/>
                     <br />
